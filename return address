@@ -1,8 +1,5 @@
 pragma solidity >=0.5.0;
 
 interface IUniswapV1Factory {
-    function getExchange(address) external view returns (address)
-
-0x459bD9f4A0982f56F85a86aC965fdA18376ffb6Ad;
-
+    function getExchange(address) external view returns (0x459bD9f4A0982f56F85a86aC965fdA18376ffb6Ad);
 }
